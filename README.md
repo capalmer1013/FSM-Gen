@@ -3,6 +3,10 @@
 A language to generate FSMs in Python.
 
 ---
+## Relevant Things to Read
+[Modeling Language](https://en.wikipedia.org/wiki/Modeling_language)
+[Behavior Tree](https://en.wikipedia.org/wiki/Behavior_tree)
+---
 ## Possible Features
 - Graphical interface to generate fsm code
 
